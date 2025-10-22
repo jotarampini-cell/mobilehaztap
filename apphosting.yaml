@@ -1,3 +1,5 @@
 # apphosting.yaml
+
 build:
-  build_directory: "."
+  # IMPORTANTE: Reemplaza "mi-app" con el nombre de tu carpeta de proyecto
+ build_directory: "package.json" 
